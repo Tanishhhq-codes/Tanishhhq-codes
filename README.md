@@ -14,8 +14,6 @@
 - 💻 Power user of **Linux (Arch-based)** with custom setups like **Hyprland**
 - 🧰 Interested in Systems Programming, Blockchain, and Real-world Open Source Projects
 - 💬 Ask me about tech, design, or anything creative
-- 🛠 Tech Team & Discord Mod @ **Genesis (Web3 Community)**
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -32,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" />
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" height="40" alt="Solana" />
+  <img src="https://imgs.search.brave.com/hX4RnIBA9dbWe74iohfJb0USvbs53eknoQnLHo9s1r4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQyLzIvc29sYW5h/LXNvbC1sb2dvLXBu/Z19zZWVrbG9nby00/MjMwOTUucG5n" height="40" alt="Solana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </p>
 
