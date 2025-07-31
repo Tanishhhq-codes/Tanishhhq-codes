@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00C3FF&vCenter=true&width=435&lines=CS+Undergrad+%7C+Linux+%7C+Solana+%7C+Web3+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishiqjaiswal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tanishiqjaiswal?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -55,25 +50,10 @@ I'm a CS undergrad at **SRM University** specializing in **Cloud Computing**, cu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishiqjaiswal&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=tanishiqjaiswal&theme=radical" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/tanishiq-jaiswal-544137330"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://x.com/_tanishiq"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" /></a>
   <a href="mailto:jaiswaltanishq10@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  Built with ❤️ on Arch Linux & coded in Rust 🦀
 </p>
