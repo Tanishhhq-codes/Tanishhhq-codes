@@ -1,52 +1,47 @@
 <h1 align="center">Hi 👋, I'm Tanishiq Jaiswal</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00C3FF&vCenter=true&width=435&lines=CS+Undergrad+%7C+Linux+%7C+Solana+%7C+Web3+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+  🚀 B.Tech CSE (Cloud Computing) @ SRM | Web3 & Solana Dev | Linux Enthusiast | Member @Genesis<br>
+  Exploring Blockchain, Systems, and Open Source!
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a CS undergrad at **SRM University** specializing in **Cloud Computing**, currently learning and building in multiple domains — from system-level dev to modern Web3.
-
-- 🐧 Using **Linux (Arch)** daily as my dev environment  
-- ⚙️ Building smart contracts with **Rust + Solana + Anchor**  
-- 🌍 Skilled in **Web Development**, **Node.js**, and **TypeScript**  
-- 🎯 Contributor at **GirlScript Summer of Code 2025**  
-- 🧠 Tech Team @ **Genesis (Web3 Community)**  
+- 🔭 Currently diving deep into **Solana development** using **Rust + Anchor**
+- 💻 Power user of **Linux (Arch-based)** with custom setups like **Hyprland**
+- 🧰 Interested in Systems Programming, Blockchain, and Real-world Open Source Projects
+- 💬 Ask me about tech, design, or anything creative
+- 🛠 Tech Team & Discord Mod @ **Genesis (Web3 Community)**
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="40" alt="Solana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" />
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" height="40" alt="Solana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-- ⚙️ **Solana Smart Contracts** (Rust + Anchor)
-- 🐧 **Advanced Linux** (Arch, Hyprland, Zsh, Dotfiles)
-- 🌐 **Backend Dev** (Node.js, Firebase)
-- 💡 **Open Source Collaboration**
+- 🧠 Rust for Solana Smart Contract Development
+- ⚙️ Anchor framework + Local validator testing
+- 📦 Building dApps with Solana stack
+- 🖥️ System level tooling on Linux
 
 ---
 
