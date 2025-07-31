@@ -4,6 +4,9 @@
   Exploring Blockchain, Systems, and Open Source!
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00C3FF&vCenter=true&width=435&lines=CS+Undergrad+%7C+Linux+%7C+Solana+%7C+Web3+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 ---
 
 ## 🧠 About Me
