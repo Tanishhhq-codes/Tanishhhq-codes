@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishiq Jaiswal</h1>
 <p align="center">
-  🚀 B.Tech CSE (Cloud Computing) @ SRM | Web3 & Solana Dev | Linux Enthusiast | Member @Genesis<br>
+  🚀 B.Tech CSE (Cloud Computing) @ SRM | Web3 & Solana Dev | Linux Enthusiast |
   Exploring Blockchain, Systems, and Open Source!
 </p>
 
