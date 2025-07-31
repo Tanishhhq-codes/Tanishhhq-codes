@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://imgs.search.brave.com/C4S2xSI0N8xyQgDVD2JbCRIB-RX6nYp2kRyXhOl_0s4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzA4/L0dpdEh1Yi1jYXQt/bG9nby01MDB4Mjgx/LmpwZw" height="40" alt="GitHub" />
+  <img src="https://imgs.search.brave.com/C4S2xSI0N8xyQgDVD2JbCRIB-RX6nYp2kRyXhOl_0s4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzA4/L0dpdEh1Yi1jYXQt/bG9nby01MDB4Mjgx/LmpwZw" height="30" alt="GitHub" />
   <img src="https://imgs.search.brave.com/1UHF3Ky_yuB9zm1GuxkxkuZFgY_9TFCA9cEu8Sed1i8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS41MTE0/ODM3MjY4LjAzNTYv/ZnBvc3RlcixzbWFs/bCx3YWxsX3RleHR1/cmUsc3F1YXJlX3By/b2R1Y3QsNjAweDYw/MC5qcGc" height="40" alt="Rust" />
   <img src="https://imgs.search.brave.com/hX4RnIBA9dbWe74iohfJb0USvbs53eknoQnLHo9s1r4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQyLzIvc29sYW5h/LXNvbC1sb2dvLXBu/Z19zZWVrbG9nby00/MjMwOTUucG5n" height="40" alt="Solana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
